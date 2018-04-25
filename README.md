@@ -1,6 +1,6 @@
 # ToDoList
 App para lista de tarefas feito apartir do curso de android pela Udemy.
-Data de Criação: 21/04/2018
-Autor: John William
+<P>Data de Criação: 21/04/2018
+<P>Autor: John William
 
-Estarei melhorando o app futuramente.
+Futuramente será um aplicativo diferente do que foi aplicado no curso.
